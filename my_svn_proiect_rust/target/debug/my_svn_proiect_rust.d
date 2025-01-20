@@ -1,0 +1,1 @@
+/home/andreeaarama/PROIECTE_ANDREEA_ARAMA/my_svn_proiect_rust/target/debug/my_svn_proiect_rust: /home/andreeaarama/PROIECTE_ANDREEA_ARAMA/my_svn_proiect_rust/src/main.rs
